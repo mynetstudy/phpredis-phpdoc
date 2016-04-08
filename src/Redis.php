@@ -82,7 +82,7 @@ class Redis
 
 
     /**
-     * Creates a Redis client
+     * 构造函数-创建一个redis实例
      *
      * @example $redis = new Redis();
      */
